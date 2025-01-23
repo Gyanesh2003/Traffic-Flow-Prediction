@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name -   gyaneshbhuyan999@gmail.com.com
 
-Project Link: [https://github.com/yourusername/traffic-flow-prediction](https://github.com/yourusername/traffic-flow-prediction)
+Project Link: [https://github.com/yourusername/traffic-flow-prediction](https://github.com/Gyanesh2003/traffic-flow-prediction)
